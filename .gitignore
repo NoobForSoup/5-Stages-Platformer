@@ -1,0 +1,12 @@
+.vs/
+Library/
+obj/
+5 Stages Platformer.sln
+Assembly-CSharp.csproj
+Logs/Packages-Update.log
+Packages/manifest.json
+UIElementsSchema/UIElements.xsd
+UIElementsSchema/UnityEditor.PackageManager.UI.xsd
+UIElementsSchema/UnityEditor.Rendering.Experimental.LookDev.xsd
+UIElementsSchema/UnityEditor.UIElements.xsd
+UIElementsSchema/UnityEngine.UIElements.xsd
